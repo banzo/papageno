@@ -6,6 +6,9 @@ A Birdhouse monitored with a Raspberry Pi and MotionEye.
 
 ### Camera Night Vision 130° Fisheye Camera 5MP Webcam + 2 Infrared IR LED Lights
 
+<img src="cam.jpg"  width="100px"/>
+
+
 <img src="Camera1_18-27-22.jpg" width="50%" />
 
 ### Another cam
@@ -26,6 +29,10 @@ Using heat shrink cable sleeve to connect the camera enclosure and the RPi enclo
 
 <img src="IMG_20191207_222428628.jpg"  width="50%"/>
 
+<img src="nut.jpg"  width="100px"/>
+<img src="enclosure.jpg"  width="100px"/>
+
+
 ## The camera enclosure at the top of the birdhouse
 
 Hopefully the IR lights will not produce too much heat.
@@ -37,6 +44,10 @@ Hopefully the IR lights will not produce too much heat.
 I'm using a PoE Switch and an Micro USB Active PoE Splitter (48V to 5V 2.4A) to provide networking and power to the RPi
 
 <img src="IMG_20191208_000937813.jpg"  width="50%"/>
+
+<img src="switch.png"  width="100px"/>
+<img src="poesplitter.jpg"  width="100px"/>
+
 
 ## And now we wait...
 
