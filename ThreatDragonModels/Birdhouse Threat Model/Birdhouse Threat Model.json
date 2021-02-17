@@ -10,7 +10,13 @@
         "name": "banzo"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "I am not a cat",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "fate"
   }
 }
