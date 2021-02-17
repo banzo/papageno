@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Birdhouse Threat Model",
+    "owner": "banzo",
+    "description": "The birdhouse consists of a living area, exposed to the outside through a round hole. The living area is monitored using an IP Camera powered and connected to the internet using a PoE connexion."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "banzo"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "fate"
+  }
+}
