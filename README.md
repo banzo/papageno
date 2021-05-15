@@ -2,6 +2,8 @@
 
 A Birdhouse monitored with a Raspberry Pi and MotionEye.
 
+<img src="12-20-42-1.jpg"  width="300px"/>
+
 ## IR Cameras
 
 Camera Night Vision 130° Fisheye Camera 5MP Webcam + 2 Infrared IR LED Lights
