@@ -3,6 +3,7 @@
 A Birdhouse monitored with a Raspberry Pi and MotionEye.
 
 <img src="12-20-42-1.jpg"  width="300px"/>
+<img src="20-20-14.jpg"  width="300px"/>
 
 ## IR Cameras
 
