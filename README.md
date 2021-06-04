@@ -4,6 +4,11 @@ A Birdhouse monitored with a Raspberry Pi and MotionEye.
 
 <img src="12-20-42-1.jpg"  width="300px"/>
 <img src="20-20-14.jpg"  width="300px"/>
+<div class="myvideo">
+   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+       <source src="https://user-images.githubusercontent.com/2684865/120845472-2bb21700-c571-11eb-833c-9048e330de3f.mp4" type="video/mp4" />
+   </video>
+</div>
 
 ## IR Cameras
 
