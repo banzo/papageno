@@ -2,14 +2,18 @@
 
 A Birdhouse monitored with a Raspberry Pi and MotionEye.
 
-<img src="12-20-42-1.jpg"  width="300px"/>
-<img src="20-20-14.jpg"  width="300px"/>
+<table><tr>
+  <td> <img src="12-20-42-1.jpg"  width="500px"/> 
+  <td><img src="20-20-14.jpg"  width="500px"/></td>
+</tr></table>
+  
+**Start of June 2021**
 
 https://user-images.githubusercontent.com/2684865/122456725-295aae80-cfae-11eb-84d4-eb204cb23d59.mp4
 
+**Mid June 2021**
+
 https://user-images.githubusercontent.com/2684865/122456820-455e5000-cfae-11eb-99c5-24ab1c868ff9.mp4
-
-
 
 ## IR Cameras
 
