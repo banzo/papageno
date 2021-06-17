@@ -5,9 +5,10 @@ A Birdhouse monitored with a Raspberry Pi and MotionEye.
 <img src="12-20-42-1.jpg"  width="300px"/>
 <img src="20-20-14.jpg"  width="300px"/>
 
-<video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-    <source src="https://github.com/banzo/papageno/blob/master/19-53-48.mp4" type="video/mp4" />
-</video>
+https://user-images.githubusercontent.com/2684865/122456725-295aae80-cfae-11eb-84d4-eb204cb23d59.mp4
+https://user-images.githubusercontent.com/2684865/122456820-455e5000-cfae-11eb-99c5-24ab1c868ff9.mp4
+
+
 
 ## IR Cameras
 
